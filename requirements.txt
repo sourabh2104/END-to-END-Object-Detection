@@ -6,7 +6,7 @@ mypy-boto3-s3
 flask-cors
 flask
 
-# YOLOv5 requirements
+YOLOv5 requirements
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
